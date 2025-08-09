@@ -55,10 +55,15 @@ npm install
 # or
 yarn install
 ```
-Contact
-📞 Phone: +977-9864728224
+### 📞 Call Me & Contact Me
+```bash
+If this project meets your requirements and you want to discuss or use it:
+📱 Call Me: +977-9864728224
 📧 Email: uniqueneupane153@gmail.com
-🌐 Portfolio: www.khemrajneupane.com.np
+🌐 Portfolio/Website: www.khemrajneupane.com.np
+🔗 GitHub:🔗 GitHub: https://github.com/Unique982/UniqueBusSewa--Saas-UI-.git
+Feel free to reach out for collaboration, customization, or deployment support.
+```
 
-🔗 GitHub: https://github.com/Unique982/UniqueBusSewa--Saas-UI-.git
+
 
